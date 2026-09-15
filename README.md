@@ -25,7 +25,7 @@ Un important travail de contextualisation et de relecture a été effectué afin
 
 Téléchargez la dernière version depuis la page **Releases** du dépôt :
 
-**[Télécharger Stormland — Traduction française V1.1](LIEN_RELEASE_GITHUB)**
+**[Télécharger Stormland — Traduction française V1.1](https://github.com/lovemakerz/Stormland_Traduction_FR/releases/tag/v1.1.2)**
 
 L’installateur est **portable** :
 
