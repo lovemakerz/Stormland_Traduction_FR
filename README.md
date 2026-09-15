@@ -39,6 +39,8 @@ Il suffit de télécharger l’installateur, de le lancer et de choisir l’acti
 
 ---
 
+![](images/5.jpg)
+
 ## Installation
 
 Fermez **Stormland** avant toute modification.
