@@ -95,12 +95,9 @@ Le choix du placement est indépendant de la traduction : vous pouvez changer de
 
 Une édition manuelle **Nexus-Friendly** est également disponible pour les utilisateurs qui préfèrent appliquer le patch eux-mêmes.
 
-Cette version utilise uniquement des fichiers **Xdelta/VCDIFF** et ne contient :
+Lien Nexusmods ( jeu existe pas sur la plateforme, c'est en cours de validation ) : Lien a venir
 
-- aucun `.exe` ;
-- aucun `.bat` ;
-- aucun `.ps1` ;
-- aucun fichier complet provenant du jeu original.
+Cette version utilise uniquement des fichiers **Xdelta/VCDIFF**  :
 
 Elle permet notamment d’installer :
 
