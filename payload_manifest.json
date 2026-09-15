@@ -1,0 +1,45 @@
+{
+  "count": 8,
+  "files": [
+    {
+      "name": "payload_en_custom/g00s006",
+      "size": 1004576,
+      "sha256": "0256412eeb0ee91166a007020086b5de433c98e92a01ac8230e44f1ff5506050"
+    },
+    {
+      "name": "payload_en_custom/toc",
+      "size": 810320,
+      "sha256": "c28189d25b8becd543426097ed8921494bd10617c1ce8bc86c3c6f1026ae3367"
+    },
+    {
+      "name": "payload_en_original_compat/g00s006",
+      "size": 977423,
+      "sha256": "c5395b0762bde41d5625ec73b60f21fff85cf4bfc709bd6c986c81397f277c15"
+    },
+    {
+      "name": "payload_en_original_compat/toc",
+      "size": 810315,
+      "sha256": "ae638744b3c71d2a4c95c76d0f29e0ae098f82a1cfa3c580e9fb997a1b503f89"
+    },
+    {
+      "name": "payload_fr_custom/g00s006",
+      "size": 1072996,
+      "sha256": "a7c9efff51d605fa7a3f04b6da0bef9359e60dba45bb19a68644785c1ac817f0"
+    },
+    {
+      "name": "payload_fr_custom/toc",
+      "size": 810321,
+      "sha256": "50acd38812044f7c05f1298fd77461088530dc65a9dde7eb0187e850cd549eee"
+    },
+    {
+      "name": "payload_fr_original/g00s006",
+      "size": 1045843,
+      "sha256": "acefda288b82f11fe2c32dea16787e8181ddd365935fd329f918e7804d41b6a4"
+    },
+    {
+      "name": "payload_fr_original/toc",
+      "size": 810317,
+      "sha256": "b2e5b9c60b42c4653bd8ea192b7d5dfd6157ef3ff4a17018128caf9ae28f1f99"
+    }
+  ]
+}
